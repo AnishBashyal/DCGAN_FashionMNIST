@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+*.egg-info/
+
+data/
+
+# Flask specific
+instance/
+*.log
+*.sqlite
+*.db
+
+
+.DS_Store
+
+node_modules/
+build/
+dist/
+*.lock
+.env
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.vscode/
+.idea/
+
+coverage/
+htmlcov/
+*.cover
+.cache
+pytest_cache/
