@@ -13,10 +13,10 @@ This a web application for visualizing and analyzing DCGAN training.  It allows 
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <[your_repository_url](https://github.com/AnishBashyal/DCGAN_FashionMNIST.git)>
-    cd <DCGAN_FashionMNIS>
+    git clone [https://github.com/AnishBashyal/DCGAN_FashionMNIST.git](https://github.com/AnishBashyal/DCGAN_FashionMNIST.git)
+    cd DCGAN_FashionMNIST
     ```
-
+    
 2.  **Install Frontend Dependencies:**
     ```bash
     cd frontend
