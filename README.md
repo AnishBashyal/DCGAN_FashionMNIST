@@ -13,7 +13,7 @@ This a web application for visualizing and analyzing DCGAN training.  It allows 
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/AnishBashyal/DCGAN_FashionMNIST.git](https://github.com/AnishBashyal/DCGAN_FashionMNIST.git)
+    git clone https://github.com/AnishBashyal/DCGAN_FashionMNIST.git
     cd DCGAN_FashionMNIST
     ```
     
